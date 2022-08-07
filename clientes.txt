@@ -1,0 +1,5 @@
+{'Nome': 'THIAGO', 'CPF': 163, 'e-mail': 'thiago@gmail.com'}
+{'Nome': 'RENATA', 'CPF': 145, 'e-mail': 'renata@gmail.com'}
+{'Nome': 'GUSTAVO', 'CPF': 187, 'e-mail': 'gustavo@gmail.com'}
+{'Nome': 'ANDREZA', 'CPF': 187, 'e-mail': 'andreza@gmail.com'}
+{'Nome': 'THAIZ', 'CPF': 198, 'e-mail': 'thaiz@gmail.com'}
